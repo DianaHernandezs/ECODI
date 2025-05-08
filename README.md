@@ -1,4 +1,4 @@
-# 🌱 ECODI : Plataforma Educativa de Concientización Ambiental Basada en Realidad Aumentada para Mitigar el Cambio Climático.
+# ECODI : Plataforma Educativa de Concientización Ambiental Basada en Realidad Aumentada para Mitigar el Cambio Climático.
 
 [📱 Ver prototipo en Figma](https://www.figma.com/design/3BpU3zf5xW8J6cdgEDPHFo/PROTOTIPO-%7C-Proyecto-de-grado?m=auto&t=tPWWbsGeNGjUhqce-6)
 
